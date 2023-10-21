@@ -77,13 +77,18 @@
   </tr>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/jack-spence-1567b523b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:jackspence123456@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
 </div>
+
 
   <tr>
     <td colspan="2" align="center" style="padding-bottom: 10px;">
-      <img src="https://profile-counter.glitch.me/Jackspence6/count.svg?" style="width:80%;"/>
+      <img src="https://profile-counter.glitch.me/Jackspence6/count.svg?" style="width:40%;" height="40"/>
     </td>
   </tr>
   </table>
