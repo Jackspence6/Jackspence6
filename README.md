@@ -71,7 +71,7 @@
 </div>
     </td>
     <td valign="center" width="60%">
-    <img src="https://raw.githubusercontent.com/Jackspence6/Jackspence6/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Profile GitBlock" style="margin-top:125px" />
+    <img src="https://raw.githubusercontent.com/Jackspence6/Jackspence6/main/profile-3d-contrib/profile-gitblock.svg" alt="Profile GitBlock" style="margin-top:125px" />
     </td>
   </tr>
    <tr>
