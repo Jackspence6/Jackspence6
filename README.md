@@ -70,7 +70,7 @@
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="20" alt="eslint logo"  />
 </div>
     </td>
-    <td valign="top" width="80%">
+    <td valign="center" width="60%">
     <img src="https://raw.githubusercontent.com/Jackspence6/Jackspence6/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Profile GitBlock" style="margin-top:125px" />
     </td>
   </tr>
