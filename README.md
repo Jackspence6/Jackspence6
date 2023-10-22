@@ -72,24 +72,24 @@
     </td>
     <td valign="top" width="80%">
     <img src="https://raw.githubusercontent.com/Jackspence6/Jackspence6/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Profile GitBlock" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jackspence6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" style="margin-top: 40px; margin-bottom: 40px; display: block; margin-left: auto; margin-right: auto; />
+   <!-- Centered Most Used Languages -->
+      <div style="text-align: center; margin-top: 40px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jackspence6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" style="max-width: 100%;margin-top: 25px;margin-left: 120px;" />
+      </div>
+      <!-- Centered Social Icons -->
+      <div style="text-align: center; margin-top: 40px;">
+        <a href="https://www.linkedin.com/in/jack-spence-1567b523b/" target="_blank">
+           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;margin-left: 220px;margin-right: 25px;margin-top: 25px;">
+        </a>
+        <a href="mailto:jackspence123456@gmail.com">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+        </a>
+      </div>
     </td>
   </tr>
-  
-  <tr>
-    <td colspan="2" align="center" style="padding-bottom: 10px;">
-       <a href="https://www.linkedin.com/in/jack-spence-1567b523b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:jackspence123456@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-    </td>
-  </tr>
-
   <tr>
     <td colspan="2" align="center" style="padding-bottom: 10px;">
       <img src="https://profile-counter.glitch.me/Jackspence6/count.svg?" style="width:40%;" height="40"/>
     </td>
   </tr>
-  </table>
+</table>
