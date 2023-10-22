@@ -71,6 +71,11 @@
 </div>
     </td>
     <td valign="center" width="60%">
+      <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=500&duration=1000&pause=2&color=070100&background=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=600&height=320&separator=%3C&lines=using+System;++%3Cnamespace+HelloWorld%3C%7B%3Cclass+Program%3C+%7B%3Cstatic+void+Main(string%5B%5D+args)%3C%7B%3CConsole.WriteLine(%22Hello+World!%22);%3CConsole.ReadLine();%3C%7D%3C%7D%3C%7D" 
+       alt="Typing SVG" 
+       style="border: 1px solid black; border-radius: 10px;" />
+</a>
     <img src="https://raw.githubusercontent.com/Jackspence6/Jackspence6/main/profile-3d-contrib/profile-gitblock.svg" alt="Profile GitBlock" style="margin-top:125px" />
     </td>
   </tr>
