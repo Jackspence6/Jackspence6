@@ -24,7 +24,12 @@
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="20" alt="redux logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" height="20" alt="jquery logo"  />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="20" alt="handlebars logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="20" alt="babel logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="20" alt="webpack logo"  />
 </div>
       <h4 align="left">Backend Development:</h4>
 <div align="left">
@@ -71,6 +76,10 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="20" alt="visualstudio logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="20" alt="eslint logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="20" alt="githubactions logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=md" height="20" alt="markdown logo"  />
 </div>
     </td>
     <td valign="center" width="60%">
