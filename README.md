@@ -8,6 +8,8 @@
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" alt="typescript logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/csharp/239120" height="20" alt="csharp logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
 </div>
       <h4 align="left">Frontend Development:</h4>
 <div align="left">
@@ -30,6 +32,10 @@
   <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="20" alt="babel logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=webpack" height="20" alt="webpack logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="20" alt="tailwindcss logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
 </div>
       <h4 align="left">Backend Development:</h4>
 <div align="left">
@@ -47,9 +53,21 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/sequelize/52B0E7" height="20" alt="sequelize logo"  />
 </div>
+      <h4 align="left">APIs and Libraries:</h4>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="20" alt="apollographql logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="20" alt="graphql logo"  />
+</div>
+      <h4 align="left">Data Science and Machine Learning:</h4>
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="numpy logo"  />
+</div>
       <h4 align="left">Backend as a Service (BaaS):</h4>
 <div align="left">
   <img src="https://cdn.simpleicons.org/heroku/430098" height="20" alt="heroku logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="20" alt="vercel logo"  />
 </div>
       <h4 align="left">Framework:</h4>
 <div align="left">
