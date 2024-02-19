@@ -10,6 +10,8 @@
   <img src="https://cdn.simpleicons.org/csharp/239120" height="20" alt="csharp logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="20" alt="go logo"  />
 </div>
       <h4 align="left">Frontend Development:</h4>
 <div align="left">
@@ -62,6 +64,16 @@
       <h4 align="left">Data Science and Machine Learning:</h4>
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="numpy logo"  />
+   <img width="6" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" alt="tensorflow logo"  />
+</div>
+      <h4 align="left">CI/CD and DevOps:</h4>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="20" alt="githubactions logo"  />
 </div>
       <h4 align="left">Backend as a Service (BaaS):</h4>
 <div align="left">
