@@ -44,6 +44,8 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20" alt="nodejs logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/flask/000000" height="20" alt="flask logo"  />
 </div>
       <h4 align="left">Database:</h4>
 <div align="left">
