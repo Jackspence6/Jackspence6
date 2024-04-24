@@ -11,7 +11,7 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="20" alt="go logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="20" alt="go logo"  />
 </div>
       <h4 align="left">Frontend Development:</h4>
 <div align="left">
@@ -37,11 +37,11 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="20" alt="tailwindcss logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="20" alt="nextjs logo"  />
 </div>
       <h4 align="left">Backend Development:</h4>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20" alt="nodejs logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="20" alt="nodejs logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
   <img width="6" />
@@ -49,7 +49,7 @@
 </div>
       <h4 align="left">Database:</h4>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="20" alt="mongodb logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="20" alt="mongodb logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="20" alt="mysql logo"  />
   <img width="6" />
@@ -71,7 +71,9 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" alt="tensorflow logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="20" alt="tensorflow logo"  />
+  <img width="6" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="20" alt="scikit_learn logo"  />
 </div>
       <h4 align="left">CI/CD and DevOps:</h4>
 <div align="left">
@@ -102,16 +104,6 @@
   <img src="https://cdn.simpleicons.org/nuget/004880" height="20" alt="nuget logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="20" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="20" alt="visualstudio logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="20" alt="eslint logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="20" alt="githubactions logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=md" height="20" alt="markdown logo"  />
 </div>
     </td>
     <td valign="center" width="60%">
