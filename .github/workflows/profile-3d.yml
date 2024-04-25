@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *"  # Runs at 18:00 UTC daily
   workflow_dispatch:
 
 jobs:
@@ -15,17 +15,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Fetch and Reset
-        run: |
-          git fetch origin main
-          git reset --hard origin/main
-      - name: Pull Latest Changes
-        run: |
-          git pull origin main --rebase
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated" --allow-empty
-          git push origin main
+          git commit -m "generated"
+          git push
