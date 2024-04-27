@@ -1,5 +1,10 @@
 <table>
   <tr>
+    <td colspan="3" align="center">
+      <img src="./assets/header-image.png" alt="Header" style="width:100%;" />
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="25%">
       <h4 align="left">Programming Languages:</h4>
 <div align="left">
@@ -70,7 +75,7 @@
     </td>
 <td valign="center" width="50%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jackspence6&theme=tokyonight" alt="Profile Details" style="border: 1px solid black; border-radius: 10px;" />
-  <img src="https://raw.githubusercontent.com/Jackspence6/Jackspence6/main/profile-3d-contrib/profile-gitblock.svg" alt="Profile GitBlock" style="border: 1px solid black; border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Jackspence6/Jackspence6/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Contributions" style="border: 1px solid black; border-radius: 10px;" />
     </td>
 <td valign="top" width="25%">
       <h4 align="left">Data Science and Machine Learning:</h4>
