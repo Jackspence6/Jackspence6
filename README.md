@@ -1,6 +1,6 @@
-<table>
-  <tr>
-    <td colspan="3" align="center">
+<table style="background-color: black; border: 5px solid black; border-radius: 5px;">
+  <tr style="background-color: black;">
+    <td colspan="3" align="center" width="100%">
       <img src="./assets/header-image.png" alt="Header" style="width:100%;" />
     </td>
   </tr>
@@ -50,7 +50,7 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="20" alt="flask logo"  />
+  <img src="https://cdn.simpleicons.org/flask/000000" height="20" alt="flask logo" style="background-color: white; border-radius: 5px; padding: 1px;" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
 </div>
@@ -74,7 +74,7 @@
 </div>
     </td>
 <td valign="center" width="50%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jackspence6&theme=tokyonight" alt="Profile Details" style="border: 1px solid black; border-radius: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jackspence6&theme=tokyonight" alt="Profile Details" style="border: 1px solid black; border-radius: 5px;" />
   <img src="https://raw.githubusercontent.com/Jackspence6/Jackspence6/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Contributions" style="border: 1px solid black; border-radius: 10px;" />
     </td>
 <td valign="top" width="25%">
