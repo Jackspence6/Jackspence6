@@ -89,6 +89,10 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="20" alt="tensorflow logo"  />
   <img width="6" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="20" alt="scikit_learn logo"  />
+  <img width="6" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="20" alt="pytorch logo"  />
+  <img width="6" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="20" alt="seaborn logo"  />
 </div>
       <h4 align="left">CI/CD and DevOps:</h4>
 <div align="left">
