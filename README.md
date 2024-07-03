@@ -12,7 +12,7 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" alt="typescript logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="20" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="20" alt="csharp logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
   <img width="6" />
